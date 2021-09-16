@@ -40,4 +40,4 @@ You can also provide default values as shown below:
 
     SECRET_KEY = env("SECRET_KEY", default="unsafe-secret-key")
 
-__Don't forget to add the .env file to ypur .gitignore before pushing your project to your repository. This is for security purposes__
+__Don't forget to add the .env file to your .gitignore before pushing your project to your repository. This is for security purposes__
